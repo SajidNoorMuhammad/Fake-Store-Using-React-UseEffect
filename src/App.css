@@ -1,0 +1,12 @@
+span{
+    font-family: monospace;
+}
+
+img{
+    display: grid;
+    place-items: center;
+}
+
+.mytext{
+    font-family: 'Times New Roman', Times, serif;
+}
